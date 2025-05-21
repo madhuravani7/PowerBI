@@ -1,4 +1,4 @@
-HR Data - HR data analysis report
+HR Data - HR data analysis report<br/><br/>
    I analyzed HR dataset and came to know some amazing facts on how different genders and age groups are performing, people that needs a promotion and people that are 
    going to be retrenched, also how travel distance
    from work has increased productivity, how many employee live close by, total employees based on job titles and many more. I quite enjoyed analyzing this data set. 
