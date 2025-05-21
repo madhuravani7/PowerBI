@@ -1,7 +1,4 @@
 HR Data - HR data analysis report<br/><br/>
-   I analyzed HR dataset and came to know some amazing facts on how different genders and age groups are performing, people that needs a promotion and people that are 
-   going to be retrenched, also how travel distance
-   from work has increased productivity, how many employee live close by, total employees based on job titles and many more. I quite enjoyed analyzing this data set. 
-   Surely data does speak.<br/><br/>
+   I analyzed an HR dataset to uncover valuable insights related to employee performance, promotion readiness, and potential retrenchment risks. The analysis highlighted performance trends across different gender and age groups, the impact of commute distance on productivity, the proportion of employees living nearby, and the distribution of employees across various job titles. This project offered a deeper understanding of workforce dynamics, and I thoroughly enjoyed exploring how data can tell compelling stories and inform strategic HR decisions.<br/><br/>
    Final dashboard 👇<br/><br/>
    ![HR Dashboard](https://github.com/user-attachments/assets/42aada67-67e0-42d9-bb70-fa5d51a757db)
